@@ -5,11 +5,11 @@ public class Main {
 
 
         double springCost = 100;
-        double SummerCost = 200;
+        double summerCost = 200;
         double fallCost = 150;
         double winterCost = 300;
 
-        double totalYearlyCost = springCost + SummerCost + fallCost + winterCost;
+        double totalYearlyCost = springCost + summerCost + fallCost + winterCost;
         System.out.println("Total Yearly Cost: " + totalYearlyCost);
     }
 }
